@@ -1,4 +1,4 @@
-# ESLint-config-bee
+# ESLint-config-bee 🐝
 ESLint rules config.
 
 ## Usage
