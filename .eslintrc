@@ -1,0 +1,6 @@
+{
+  "extends": ["./index.js"],
+  "plugins": [
+    "markdown", "html"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-bee",
+  "version": "1.0.0",
+  "description": "ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ESLint"
+  ],
+  "author": "ablipan@163.com",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+    "eslint": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-plugin-html": "^3.0.0"
+  }
+}
