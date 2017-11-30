@@ -1,5 +1,4 @@
-# 🐝🐝🐝
-ESLint rules config.
+# Customized ESLint config 🐝
 
 ## Usage
 
